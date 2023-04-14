@@ -38,7 +38,7 @@ export default function Counter() {
         </div>
         <div className="userInput-container">
           <label className="userInput-label" htmlFor="userValue" />
-          Enter a value:
+          Enter the value to increment/decrement by :
           <input
             type="number"
             className="userInput"
